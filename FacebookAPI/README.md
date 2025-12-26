@@ -28,8 +28,7 @@ Setup Instructions
 
 Get a Facebook Access Token:
 
-Go to Graph API Explorer
-.
+Go to Graph API Explorer .
 
 Select your app or use your personal account.
 
@@ -55,6 +54,4 @@ The Facebook profile link is constructed using the user ID for reliable access.
 
 Fetching email, friends, posts, or other sensitive data requires additional permissions and Facebook App Review.
 
-Member: Joreval Orpilla Wilson Abalos Jerome Benaso
-
-
+Member: Joreval Orpilla Wilson Abalos Jerome Benaso Yousef Ravancho
